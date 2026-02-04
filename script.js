@@ -25,11 +25,11 @@ function createSnowflake() {
   snowflake.classList.add('snowflake');
   
   const characters = [
-    'ع', 'ق', 'ل',             // Arab
-    'ꦬ', 'ꦏ', 'ꦧ',             // Jawa
-    '爱', '和', '智',             // Mandarin
+    'ع', 'ق', 'ض',             // Arab
+    'ꦬ', 'ꦙ', 'ꦨ',             // Jawa
+    '爱', '语', '活',             // Mandarin
     'я', 'Ф', 'Б',             // Rusia
-    'L', 'V', 'X',             // Latin
+    'L', 'V', 'W',             // Latin
     '♪', '♫', '∮', '♭', '♯'    // Musik
   ];
   
